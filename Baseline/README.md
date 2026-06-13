@@ -1,7 +1,7 @@
-#Baseline EEG Neural Network
+# Baseline EEG Neural Network
 
-##Overview
-This is the original baseline that will mainly be reused in this work. It was a final project for the DeepLearning course taken at the Lebanese American University.
+## Overview
+This is the original baseline that will mainly be reused in this project. It was a final project for the Deep Learning course taken at the Lebanese American University.
 
-##Contents
--Baseline.ipynb (The original project created, unaltered for authenticity purposes).
+## Contents
+- Baseline.ipynb (The original project created, unaltered for authenticity purposes).
